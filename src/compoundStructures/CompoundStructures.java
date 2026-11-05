@@ -35,6 +35,15 @@ public class CompoundStructures {
 
     // What does this print?
     List<String> ingredients = cookbook.get("Pho");
+    System.out.println(ingredients);
     System.out.println(ingredients.get(2));
+
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
   }
 }
